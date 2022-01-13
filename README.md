@@ -1,2 +1,2 @@
 # Program-Bot-Inter-IIT
-ROS | Gazebo
+In this competition we have to do simulation of autonomous bike in ROS.This competition is conducted by IIT Palakkad
